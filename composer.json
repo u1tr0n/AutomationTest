@@ -39,11 +39,5 @@
     "symfony/maker-bundle": "^1.48",
     "vimeo/psalm": "^5.8",
     "composer/package-versions-deprecated": "1.11.99"
-  },
-  "scripts": {
-    "test": [
-      "vendor/bin/simple-phpunit",
-      "ENCODER=lcobucci vendor/bin/simple-phpunit"
-    ]
   }
 }
