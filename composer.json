@@ -2,7 +2,7 @@
   "name": "u1tr0n/automation_test",
   "type": "symfony-bundle",
   "description": "automate run commands manager",
-  "keywords": ["Symfony", "bundle", "automation", "run commands", "commands", "ci/di"],
+  "keywords": [],
   "homepage": "https://github.com/u1tr0n/AutomationTest",
   "license": "MIT",
   "authors": [
