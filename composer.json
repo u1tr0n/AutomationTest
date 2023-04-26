@@ -4,7 +4,7 @@
   "description": "automate run commands manager",
   "keywords": ["Symfony", "bundle", "automation", "run commands", "commands", "ci/di"],
   "homepage": "https://github.com/u1tr0n/AutomationTest",
-  "license": "GNU General Public License v3.0",
+  "license": "MIT",
   "authors": [
     {
       "name": "Illia Dulaive",
